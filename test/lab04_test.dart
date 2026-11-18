@@ -22,7 +22,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:lab04/app.dart';
-import 'package:lab04/widgets/drama_card.dart';
+import 'package:lab04/presentation/widgets/drama_card.dart';
 
 const Size small = Size(320, 568);
 const Size large = Size(430, 932);
